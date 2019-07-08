@@ -2,7 +2,7 @@ class CreateOrderItems < ActiveRecord::Migration[5.2]
   def change
     create_table :order_items do |t|
       t.integer :quantity
-      t.decimal :price, null: false, precision: 15, scale: 
+      t.decimal :price, null: false, precision: 15, scale: 2
 
       t.timestamps
     end
