@@ -62,3 +62,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
+
+
+gem 'faker'
