@@ -32,4 +32,5 @@ PRODUCTS_COUNT.times do
     product = Product.new (
         title: title
     )
-    
+    end
+end
