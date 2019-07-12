@@ -1,8 +1,8 @@
 class CategoriesController < ApplicationController
     def index
-        render html: 'this is the categories routes'
+        @categories = Category.order(:title)
     end
-        
+
 
 
 
