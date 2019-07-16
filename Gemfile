@@ -66,3 +66,4 @@ gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
 gem 'faker'
 gem 'react-rails'
+gem 'pry'
