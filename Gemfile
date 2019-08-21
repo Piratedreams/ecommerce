@@ -68,3 +68,4 @@ gem 'faker'
 gem 'react-rails'
 gem 'pry'
 gem 'webpacker', github: 'rails/webpacker'
+gem "nokogiri", ">= 1.10.4"
