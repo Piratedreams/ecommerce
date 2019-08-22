@@ -6,10 +6,7 @@ class Categories extends React.Component {
 
         const getCategories = async = () => {
             try {
-
-
                 
-
             } catch (err) {
             console.log(err);
             return err;
