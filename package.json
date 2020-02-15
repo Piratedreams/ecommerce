@@ -7,10 +7,10 @@
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
     "react-stripe-elements": "^4.0.0",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.7.2",
-    "yarn": "1.17.3"
+    "yarn": "1.22.0"
   }
 }
